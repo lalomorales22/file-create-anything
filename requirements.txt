@@ -1,0 +1,11 @@
+streamlit
+pillow
+pandas
+python-magic-bin
+docx2txt
+PyPDF2
+openpyxl
+pyyaml
+xmltodict
+reportlab
+
